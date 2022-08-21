@@ -23,7 +23,7 @@ Adds "Login as User" feature for administrators, making it, for example, easier 
 
 ### Pre-build extension release
 
-1. Download the latest release from [Release page](https://gitlab.apertia.cz/autocrm/modules/login-as-user/-/releases).
+1. Download the latest release from [Release page](https://github.com/mozkomor05/espocrm-login-as-user-extension/releases/latest).
 2. Go to **Administration** -> **Extensions** and upload the downloaded file.
 
 ### Build from source
