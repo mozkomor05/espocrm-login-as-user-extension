@@ -1,0 +1,12 @@
+{
+    "js": {
+        "client/modules/login-as-user/src/js/bundled.min.js": [
+            "client/modules/login-as-user/src/js/script-to-append.js"
+        ]
+    },
+    "css": {
+        "client/modules/login-as-user/css/bundled.min.css": [
+            "client/modules/login-as-user/css/general.css"
+        ]
+    }
+}
