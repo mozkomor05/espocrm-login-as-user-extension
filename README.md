@@ -1,4 +1,4 @@
-# Module - LoginAsUser
+# Module - Login as User
 
 Adds "Login as User" feature for administrators, making it, for example, easier to debug ACL.
 
@@ -17,7 +17,7 @@ Adds "Login as User" feature for administrators, making it, for example, easier 
 ## Requires
 
 - EspoCRM >= 7.0
-- PHP >= 8.1
+- PHP >= 7.4
 
 ## Installation
 

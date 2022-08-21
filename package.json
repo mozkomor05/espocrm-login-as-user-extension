@@ -1,7 +1,7 @@
 {
     "name": "login-as-user",
     "version": "0.0.1",
-    "description": "Adds "Login as User" feature for administrators, making it, for example, easier to debug ACL.",
+    "description": "Adds \"Login as User\" feature for administrators, making it, for example, easier to debug ACL.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

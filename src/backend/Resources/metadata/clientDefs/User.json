@@ -1,0 +1,18 @@
+{
+    "menu": {
+        "detail": {
+            "dropdown": [
+                "__APPEND__",
+                {
+                    "label": "Login as User",
+                    "name": "loginAsUser",
+                    "action": "loginAsUser",
+                    "data": {
+                        "handler": "login-as-user:handlers/actions/login-as-user"
+                    },
+                    "initFunction": "init"
+                }
+            ]
+        }
+    }
+}
